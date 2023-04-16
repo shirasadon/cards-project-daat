@@ -1,0 +1,90 @@
+
+
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+  .main_container{
+width: 1700px;
+margin: 30px 30px 30px 30px;
+  }
+
+  .container {
+    position: relative;
+    color: white;
+  
+  }
+.col-sm{
+    margin: 20px 20px 20px 20px;
+
+}
+.card{
+  height: 500px;
+}
+.paragraph-main-title{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  width: 400px;
+}
+  .main_title {
+    width: 400px;
+    height:200px ;
+    font-size: 32px;
+    font-weight: bold;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 40px;
+    margin-top: 70px;
+    text-indent:normal 
+  }
+  .subtitle{
+    width: 400px;
+    font-size: 12px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 20px;
+    margin-top: 75px;
+  }
+  .paragraph-subtitle{
+    display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp:2;
+  overflow: hidden;
+  width: 200px;
+  }
+  .card-img-top{
+    height: 210px;
+  }
+.tag{
+    color: rgb(179, 174, 174);
+    font-weight:normal;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    width: 400px;
+}
+.card-text{
+  height: 60px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.paragraph{
+  height: 70px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+a{
+  height: 45px;
+
+}
